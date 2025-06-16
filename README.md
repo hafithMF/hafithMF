@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e98c0&height=200&section=header&text=Hi,%20I'm%20Hafith%20Fauzan!&fontSize=40&fontAlignY=40&desc=Web%20%26%20IoT%20Developer%20from%20Indonesia&descSize=20&descAlign=60" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Hafith+Fauzan;Welcome+to+my+GitHub+Profile;Let's+build+something+cool+!+🚀" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Turning ideas into elegant digital solutions</h3>
@@ -14,7 +14,6 @@
 ---
 
 ## 📌 About Me
-
 Name: Hafith Fauzan
 Role: Fullstack Developer & IoT Enthusiast
 Location: Indonesia
