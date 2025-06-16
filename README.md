@@ -1,56 +1,40 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Hafith Muhammad Fauzan</h1>
-<h3 align="center">💻 Web Developer • ⚙️ IoT Enthusiast • 📚 Tech Learner</h3>
-
+<!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0EBAC7&center=true&vCenter=true&width=435&lines=Crafting+elegant+solutions.;Building+Laravel+IoT+apps.;Exploring+tech+with+purpose." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e98c0&height=200&section=header&text=Hi,%20I'm%20Hafith%20Fauzan!&fontSize=40&fontAlignY=40&desc=Web%20%26%20IoT%20Developer%20from%20Indonesia&descSize=20&descAlign=60" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🔭 Currently working on: **IoT Dashboard with Laravel + MQTT**
-- 🧰 Tech I use: Laravel, Tailwind, Next.js, PostgreSQL, ESP32
-- 🌱 Learning about: **Crypto Trading & App Router Next.js**
-- ✍️ I love sharing and building open-source side projects
-- 📫 Contact me: `hafith@example.com`
-
----
-
-### 🚀 Tech Stack
+<h3 align="center">🚀 Turning ideas into elegant digital solutions</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,js,php,html,css,postgres,mysql,arduino,vscode,git" />
+  <a href="mailto:hafith@example.com"><img src="https://img.shields.io/badge/Email-hafith@example.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hafithfauzan"><img src="https://img.shields.io/badge/LinkedIn-HafithFauzan-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/hafithfauzan"><img src="https://img.shields.io/badge/Instagram-@hafithfauzan-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 💡 About Me
+Name: Hafith Fauzan
+Role: Fullstack Developer & IoT Enthusiast
+Location: Indonesia
+Focus: Laravel, Next.js, MQTT, and TailwindCSS
+Quote: "Code beautifully. Automate smartly. Build with purpose."
+🔭 Working on: IoT Dashboard with Laravel + MQTT + ESP32
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafithfauzan&show_icons=true&theme=onedark&hide_title=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hafithfauzan&theme=onedark" width="45%" />
-</p>
+🧠 Exploring: Crypto Trading • Next.js App Router • AI Tools
 
----
+🌱 Learning daily, building weekly, sharing monthly
 
-### 🌐 Connect with Me
+🧩 Fun fact: I like turning sensors and data into real-time dashboards
 
-<p align="center">
-  <a href="https://linkedin.com/in/hafithfauzan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/hafithfauzan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:hafith@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Code with purpose, share with passion.”</i>
-</p>
+🛠️ Tools & Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,php,js,html,css,postgres,mysql,arduino,vscode,git" /> </p>
+📊 My GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hafithfauzan&theme=nightowl&show_icons=true&count_private=true&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=hafithfauzan&theme=nightowl&hide_border=true" width="48%"/> </div> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafithfauzan&layout=compact&theme=nightowl&hide_border=true" width="40%" /> </p>
+🧠 Quote of the Day
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EBAC7&center=true&vCenter=true&width=600&lines=Code+with+intention.;Build+with+impact.;Stay+curious+%26+keep+learning." /> </p>
+📬 Get in Touch
+<p align="center"> <a href="mailto:hafith@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/hafithfauzan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/hafithfauzan"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://saweria.co/hafithfauzan"><img src="https://img.shields.io/badge/-Support%20Me-orange?style=for-the-badge&logo=ko-fi&logoColor=white" /></a> </p>
+<!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0e98c0&height=120&section=footer"/> </p> ```
