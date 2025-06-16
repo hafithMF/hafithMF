@@ -1,30 +1,19 @@
-<!-- HEADER -->
+<!-- 🌟 Custom Banner Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Hafith+Fauzan;Welcome+to+my+GitHub+Profile;Let's+build+something+cool+!+🚀" alt="Typing SVG" />
+  <img src="https://github.com/hafithfauzan/hafithfauzan/assets/your-banner.png" alt="hafithfauzan banner" width="100%" />
 </p>
 
-<h3 align="center">🚀 Turning ideas into elegant digital solutions</h3>
+<!-- Tagline -->
+<h3 align="center">🚀 Turning Ideas into Elegant Digital Solutions</h3>
 
-<p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-Click%20Here-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Click%20Here-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-Click%20Here-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
+## ✨ About Me
 
----
-
-## 📌 About Me
-Name: Hafith Fauzan
-Role: Fullstack Developer & IoT Enthusiast
-Location: Indonesia
-Stack: Laravel, Next.js, Tailwind, MQTT, ESP32
-🔭 I’m currently working on an IoT Dashboard with Laravel + MQTT + ESP32
-
-🌱 I love building modern UIs and connected devices
-
-🎯 My goal is to build smart, clean, and useful technology
-
-🧠 "Code beautifully. Automate smartly. Build with purpose."
+- 💼 **Fullstack Developer** & **IoT Enthusiast**
+- 🌍 Based in **Indonesia**
+- 💬 Focus: `Laravel`, `Next.js`, `MQTT`, `TailwindCSS`, `ESP32`
+- 🔭 Currently working on: **IoT Dashboard** with `Laravel + MQTT + ESP32`
+- 💡 Passionate about: Smart UI, automation, connected devices
+- 🎯 Motto: *“Code beautifully. Automate smartly. Build with purpose.”*
 
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,php,js,html,css,arduino,mysql,postgres,git,vscode" /> </p>
