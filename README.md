@@ -1,10 +1,10 @@
-<!-- 🌟 Custom Banner Header -->
-<p align="center">
-  <img src="https://github.com/hafithfauzan/hafithfauzan/assets/your-banner.png" alt="hafithfauzan banner" width="100%" />
-</p>
+<h3 align="center">🚀 Turning ideas into elegant digital solutions</h3>
 
-<!-- Tagline -->
-<h3 align="center">🚀 Turning Ideas into Elegant Digital Solutions</h3>
+<p align="center">
+  <a href="mailto:hafith@example.com"><img src="https://img.shields.io/badge/Email-hafith@example.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hafithfauzan"><img src="https://img.shields.io/badge/LinkedIn-HafithFauzan-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/hafithfauzan"><img src="https://img.shields.io/badge/Instagram-@hafithfauzan-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
 ## ✨ About Me
 
