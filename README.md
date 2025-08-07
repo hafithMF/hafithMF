@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:hafithmuhammadsmktibazma@gmail.com"><img src="https://img.shields.io/badge/Email-hafithmuhammadsmktibazma@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/hafithfauzan"><img src="https://img.shields.io/badge/LinkedIn-Hafith-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/hafith_mf"><img src="https://img.shields.io/badge/Instagram-@hafith_mf-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/fith_mf"><img src="https://img.shields.io/badge/Instagram-@fith_mf-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 ## ✨ About Me
