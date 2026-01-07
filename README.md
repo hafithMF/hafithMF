@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hafith Fauzan</h1>
+<h1 align="center">Hi there 👋, I'm Hafith Muhammad Fauzan</h1>
 <h3 align="center">🚀 Turning ideas into elegant digital solutions</h3>
 
 <p align="center">
